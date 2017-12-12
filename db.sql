@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generato il: 12 dic, 2017 at 08:57 AM
+-- Generato il: 5 dic, 2017 at 08:57 AM
 -- Versione MySQL: 5.1.54
 -- Versione PHP: 5.3.5
 
