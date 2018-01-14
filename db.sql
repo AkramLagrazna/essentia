@@ -91,4 +91,4 @@ CREATE TABLE IF NOT EXISTS `utente` (
 
 INSERT INTO `utente` (`username`, `scuola_id`, `nome`, `email`, `ip`, `genere`, `scuola`, `classe`, `punteggiototale`, `nascita`, `cognome`, `password_2`) VALUES
 ('jenny', 0, 'Jenny', 'admin@gmail.com', '127.0.0.1', 'F', 'Salvemini', '3P', 4, '1998-09-01', 'Bettini', '5f4dcc3b5aa765d61d8327deb882cf99'),
-('lagra', 0, 'Akram', 'lagrazna@outlook.it', '127.0.0.1', 'M', 'Salvemini', '5P', 8, '1999-08-04', 'Lagrazna', '5f4dcc3b5aa765d61d8327deb882cf99');
+('lagra', 0, 'Akram', 'lagrazna@example.com', '127.0.0.1', 'M', 'Salvemini', '5P', 8, '1999-08-04', 'Lagrazna', '5f4dcc3b5aa765d61d8327deb882cf99');
